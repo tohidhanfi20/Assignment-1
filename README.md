@@ -60,22 +60,31 @@ Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%203
 # Assignment-4
 Explaination:- In this assignment 4(a) i found different types of files in the ETC directory
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%204(a).png
 
 
 Explaination:- In this Assignment 4(b) i found different types of files with permissions mentioned and date and time
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%204(b).png
 
 
 Explaination:- In this Assignment 4(c) i found same structure but the difference was that the permissions are now in the form of numbers and there is no date and time are not there 
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%204(c).png
 
 
 Explaination:- In this Assignment 4(d) i found helping stucture for LS and wide range of other commands 
 Here is the screenshot what i encounted:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%204(d).png
+
+
+# Assignment-5
+Explaination:- In this Assignment 5(a) PWD command means preview Directory and showed me the current directory   
+Here is the screenshot what i encounted:-
 Screenshot:-
 
-              
+
+Explaination:- In this Assignment 5(b) i changed the directory to var and then listed the content in the var Directory
+Here is the screenshot what i encounted:-
+Screenshot:
                 
