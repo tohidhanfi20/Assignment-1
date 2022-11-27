@@ -30,31 +30,31 @@ Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%202
 Explaination :- In this Assignment 3(a)
 I entered the command there was no output because i didn't give any name of the directory
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%203(a).png
 
 
 Explaination:- In this Assignment 3(b)
 I typed command cd /home i.e i changed the Directory to home and by doing ls command i come to know what is there in that directory
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%203(b).png
 
 
 Explaination:- In this Assignment 3(c)
 I typed command cd .. due to this i came out of the directory which i was previously entered
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%203(c).png
 
 
 Explaination:- In this Assignment 3(d)
 I typed command cd /var/www/html cd and the output was there is no such directory present 
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%203(d).png
 
 
 Explaination:- In this Assignment 3(e)
 I typed command cd /root The output for these command is found to be permission denied and doing LS we can only read what's in that directory. we Dont have any other permissions.
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%203(e).png
 
 
 
