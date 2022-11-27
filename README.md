@@ -81,10 +81,10 @@ Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%204
 # Assignment-5
 Explaination:- In this Assignment 5(a) PWD command means preview Directory and showed me the current directory   
 Here is the screenshot what i encounted:-
-Screenshot:-
+Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%205(a).png
 
 
 Explaination:- In this Assignment 5(b) i changed the directory to var and then listed the content in the var Directory
 Here is the screenshot what i encounted:-
-Screenshot:
+Screenshot:https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%205(b).png
                 
