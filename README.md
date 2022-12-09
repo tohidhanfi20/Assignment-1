@@ -95,3 +95,9 @@ Screenshot:https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%205(
 # Assignment part 3 :- In this assignment we played with the files moving here and there and making them to copy from one directory to other 
 Here is the screenshots what i encountered:=
 Screenshot: 
+https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203.png
+https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203%20(2).png
+https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203%20(3).png
+https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203%20(4).png
+https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203%20(5).png
+https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203%20(6).png
