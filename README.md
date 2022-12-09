@@ -88,3 +88,10 @@ Explaination:- In this Assignment 5(b) i changed the directory to var and then l
 Here is the screenshot what i encounted:-
 Screenshot:https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%205(b).png
                 
+
+
+
+
+# Assignment part 3 :- In this assignment we played with the files moving here and there and making them to copy from one directory to other 
+Here is the screenshots what i encountered:=
+Screenshot: 
