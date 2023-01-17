@@ -108,23 +108,26 @@ https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203%20(6
 
 Part 1 :- Create an IAM user with username of your own wish and grant
 administrator policy
-Screenshots
+Screenshots:- https://github.com/tohidhanfi20/Assignments/blob/main/IAM%20with%20admin.png
 
 
 Part 2 :- Hello students, in this assignment you need to prepare a
 developers team of avengers.
 - Create 3 IAM users of avengers and assign them in developer’s groups with
 IAM policy.
-Screenshot:- 
+Screenshot:- https://github.com/tohidhanfi20/Assignments/blob/main/developer%201.png
+             https://github.com/tohidhanfi20/Assignments/blob/main/developer%202.png
 
 
 Part 3 :- - Define a condition in policy for expiration like
-screenshot:- 
+screenshot:- https://github.com/tohidhanfi20/Assignments/blob/main/json.png
 
 
 Part 4 :- - Prepare 15 authentic MCQ questions related to IAM.
-Screenshot :- 
+Screenshot :- https://github.com/tohidhanfi20/Assignments/blob/main/IAM%20questions.png
 
 
 Part 5 :- Launch your linux instance in IAM and update your machine
-Screenshot:-
+Screenshot:- https://github.com/tohidhanfi20/Assignments/blob/main/update%201.png
+             https://github.com/tohidhanfi20/Assignments/blob/main/update%202.png
+             https://github.com/tohidhanfi20/Assignments/blob/main/update%202.png
