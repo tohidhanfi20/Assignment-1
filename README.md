@@ -135,4 +135,4 @@ Screenshot:- https://github.com/tohidhanfi20/Assignments/blob/main/update%201.pn
 
 # Assignment of interview questions in breif
 Here is the ansers what i prepared for interview point of view 
-link:- 
+link:- https://github.com/tohidhanfi20/Assignments/blob/main/iam.txt
