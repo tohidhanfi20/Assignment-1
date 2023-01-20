@@ -1,0 +1,33 @@
+1) What is the need of IAM ?
+
+Ans:- IAM stands for "identity access management" it defines itself by its full form
+i.e iam is responsible to give access to only assigned and genuine users. the iam user firstly need to know the account id of 12 digits which can be changed by the root user.
+
+- iam also keep track on the employee. only specific to there roles if it finds something unsually it can be detected
+- iam also authorize access to specific resourse and keep an eye on those identities
+
+
+2) if i am a non tech person, how will you define policies in IAM ?
+
+Ans:- If i would be a non tech person i would prefer to give the least privilage for the user as we cannot take any risk. He would get roles according to his job in the Org and according to that we will assign policies further in future.
+
+3) Please define a scenario in which you would like to create your own IAM policy ?
+
+Ans:- For creating policy first of all you need the policy of admnistrator so that you can assign policies to other IAM's. Then you have to go to the policies section there you can see create policy section click it. Here you can see two sections 1) visual editor 2) JSON
+both are the ways from that you can create or modify policy. Visual editor is little easy way but in json you have to do some scripting stuffs.
+
+
+
+4) Why do we prefer not using root account ?
+
+Ans:- Root account is called the main account of the aws console and it is kept confidential and it consist of all inforamtion credentials and billing information. this all things manupulations is little risky so peple always recommend to make an IAM accout with access of administrator and proceed with the configuration.
+
+
+5)  Who to revoke policy for an IAM user ?
+
+Ans:- The answer is quiet simple that we have to navigate to the IAM dashboard and then in policies section we will find upto 300+ policies we have to go to the policy which we want to revoke or remove. After that see for which iam user the policy is assigned and then select that user and then detach the policy from that iam user.
+
+6) Can a single IAM user be a part of multiple policy via group and root? how?
+
+Ans:- Yes it is possible that a single IAM user can be part of multiple policy if IAM have the policy of administrator he didn't want any other permissions. In this case we want multiple policies to be imposed so we can do this by root account in the policies section
+from the list of 300+ policies. 
