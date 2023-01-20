@@ -131,3 +131,8 @@ Part 5 :- Launch your linux instance in IAM and update your machine
 Screenshot:- https://github.com/tohidhanfi20/Assignments/blob/main/update%201.png
              https://github.com/tohidhanfi20/Assignments/blob/main/update%202.png
              https://github.com/tohidhanfi20/Assignments/blob/main/update%202.png
+
+
+# Assignment of interview questions in breif
+Here is the ansers what i prepared for interview point of view 
+link:- 
