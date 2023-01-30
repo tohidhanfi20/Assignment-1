@@ -141,4 +141,4 @@ link:- https://github.com/tohidhanfi20/Assignments/blob/main/iam.txt
 
 # Assignment 5 Explain this following bash script:
 Here i have explained the given bash script in the precised manner 
-link :- 
+link :- https://github.com/tohidhanfi20/Assignments/blob/main/assignment%205.docx
