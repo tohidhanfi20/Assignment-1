@@ -136,3 +136,9 @@ Screenshot:- https://github.com/tohidhanfi20/Assignments/blob/main/update%201.pn
 # Assignment of interview questions in breif
 Here is the ansers what i prepared for interview point of view 
 link:- https://github.com/tohidhanfi20/Assignments/blob/main/iam.txt
+
+
+
+# Assignment 5 Explain this following bash script:
+Here i have explained the given bash script in the precised manner 
+link :- 
