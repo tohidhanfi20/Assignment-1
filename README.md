@@ -142,3 +142,10 @@ link:- https://github.com/tohidhanfi20/Assignments/blob/main/iam.txt
 # Assignment 5 Explain this following bash script:
 Here i have explained the given bash script in the precised manner 
 link :- https://github.com/tohidhanfi20/Assignments/blob/main/assignment%205.docx
+
+
+
+# Assignment 7 Create your own new custom VPC
+I have created my own custom vpc and i have divided the CIDR ip address into 3 subnets and made an internet gateway IGW
+and using that subnet and my custom vpc i have configured my ec2 instance using that. Here i provide my screenshot of execution
+link:-
