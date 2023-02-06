@@ -148,4 +148,8 @@ link :- https://github.com/tohidhanfi20/Assignments/blob/main/assignment%205.doc
 # Assignment 7 Create your own new custom VPC
 I have created my own custom vpc and i have divided the CIDR ip address into 3 subnets and made an internet gateway IGW
 and using that subnet and my custom vpc i have configured my ec2 instance using that. Here i provide my screenshot of execution
-link:-
+link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).png
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122059.png
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122156.png
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122242.png
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122447.png
