@@ -162,7 +162,7 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
  
  Here is the screenshots links and docx file with full explaination:-
  
-Docx link:=
+Docx link:- https://github.com/tohidhanfi20/Assignments/blob/main/new%202.txt
 
 Screenshots:-
 https://github.com/tohidhanfi20/Assignments/blob/main/Both%20Instances.png
