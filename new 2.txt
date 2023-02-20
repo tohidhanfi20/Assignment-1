@@ -1,0 +1,20 @@
+IN this assignment i created an rds database on mariadb engine. 
+With free tier configurations and at the same time i created an  Two ec2 instances as load balancing requires atleast two instances.
+Then i configured the security group so that the port for the databases is enabled and ports like http icmp etc.
+After that i installed sql server with mariadb as a engine on my both ec2 instances. using yum install mariadb command.
+Then i have hecked wheather the db is running or not by (systemctl enable mariadb) and (systemctl start mariadb)
+After that now its time to connect my ec2 instance to my database as we got the endpoints.
+using following command i have connected my ec2 with rds :-mysql -h rdsxec2.cww3jlwugwt6.ap-south-1.rds.amazonaws.com -p 3306 -u admin -p admin123
+in this -h is enpoint -p is the port -u is the user -p is the password. 
+
+After this now the last step is to connect our ec2 instancewith a load balancer so that the traffic load is balanced.
+First we have to take application LB for http and https 
+And have to create target groups for the both the instances have to add port listeners also so that it can be accessed by 
+by the port 80 i.e http  
+
+Here are the screenshots of what i have created:-
+https://github.com/tohidhanfi20/Assignments/blob/main/Both%20Instances.png
+https://github.com/tohidhanfi20/Assignments/blob/main/Ec2-1.png
+https://github.com/tohidhanfi20/Assignments/blob/main/Ec2-2.png
+https://github.com/tohidhanfi20/Assignments/blob/main/LB%20interface.png
+https://github.com/tohidhanfi20/Assignments/blob/main/Load%20balancer.png
