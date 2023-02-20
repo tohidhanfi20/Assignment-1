@@ -153,3 +153,21 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
       https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122156.png
       https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122242.png
       https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122447.png
+      
+      
+# Assignment 6 
+  Ques:Complete the below task:
+  1. Explain the below AWS Architecture
+  2. Implement the same in the AWS(only do a proper connection between service)
+ 
+ Here is the screenshots links and docx file with full explaination:-
+ 
+Docx link:=
+
+Screenshots:-
+https://github.com/tohidhanfi20/Assignments/blob/main/Both%20Instances.png
+https://github.com/tohidhanfi20/Assignments/blob/main/Ec2-1.png
+https://github.com/tohidhanfi20/Assignments/blob/main/Ec2-2.png
+https://github.com/tohidhanfi20/Assignments/blob/main/LB%20interface.png
+https://github.com/tohidhanfi20/Assignments/blob/main/Load%20balancer.png
+ 
