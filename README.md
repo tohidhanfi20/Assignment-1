@@ -1,4 +1,7 @@
-# Assignment-1
+
+# Assignment-1 Basic Linux Commands Assignments:-
+
+# Connect and disconnect with login Access
 Explaination:- In this Assignment -1 we come to know that as we have made only one user for our centos it will not take other users or username 
 and  it will promt sorry it can't work try Again
 
@@ -7,7 +10,9 @@ Here is the screenshot what i encounted
 Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20221127_180835.png
 
 
-# Assignment-2
+# Password changing
+
+Linux Basic Commands Assignment:-
 Explaination :- In this Assignment 2(1)
 I created a new password (IneuRO#42) and that was the strong password and the system took the password and after that a prompt appear that was for       Authentication Required that was previous root password and then the password was changed.
 Here is the screenshot what i encounted:-
@@ -26,7 +31,8 @@ Here is the screenshot what i encounted:-
 Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%202(3).png
 
 
-# Assignment-3
+# Working with Directories
+
 Explaination :- In this Assignment 3(a)
 I entered the command there was no output because i didn't give any name of the directory
 Here is the screenshot what i encounted:-
@@ -57,7 +63,8 @@ Here is the screenshot what i encounted:-
 Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%203(e).png
 
 
-# Assignment-4
+# Working with File Listing
+
 Explaination:- In this assignment 4(a) i found different types of files in the ETC directory
 Here is the screenshot what i encounted:-
 Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%204(a).png
@@ -78,7 +85,8 @@ Here is the screenshot what i encounted:-
 Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%204(d).png
 
 
-# Assignment-5
+# Know where you are and where you working
+
 Explaination:- In this Assignment 5(a) PWD command means preview Directory and showed me the current directory   
 Here is the screenshot what i encounted:-
 Screenshot:-https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%205(a).png
@@ -91,8 +99,8 @@ Screenshot:https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%205(
 
 
 
-
-# Assignment part 3 :- In this assignment we played with the files moving here and there and making them to copy from one directory to other 
+# Assignment 2
+Assignment part 3 :- In this assignment we played with the files moving here and there and making them to copy from one directory to other 
 Here is the screenshots what i encountered:=
 Screenshot: 
 https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203.png
@@ -104,8 +112,7 @@ https://github.com/tohidhanfi20/Assignments/blob/main/Assignment%20part%203%20(6
 
 
 
-# Assignment sheet for IAM user:- we have given five task to perform in this assignment
-
+# IAM Assignment 30th OCT'22
 Part 1 :- Create an IAM user with username of your own wish and grant
 administrator policy
 Screenshots:- https://github.com/tohidhanfi20/Assignments/blob/main/IAM%20with%20admin.png
@@ -133,8 +140,8 @@ Screenshot:- https://github.com/tohidhanfi20/Assignments/blob/main/update%201.pn
              https://github.com/tohidhanfi20/Assignments/blob/main/update%202.png
 
 
-# Assignment of interview questions in breif
-Here is the ansers what i prepared for interview point of view 
+# Assignment Interview question IAM 30th Oct'22
+Here is the answers what i prepared for interview point of view 
 link:- https://github.com/tohidhanfi20/Assignments/blob/main/iam.txt
 
 
@@ -143,16 +150,6 @@ link:- https://github.com/tohidhanfi20/Assignments/blob/main/iam.txt
 Here i have explained the given bash script in the precised manner 
 link :- https://github.com/tohidhanfi20/Assignments/blob/main/assignment%205.docx
 
-
-
-# Assignment 7 Create your own new custom VPC
-I have created my own custom vpc and i have divided the CIDR ip address into 3 subnets and made an internet gateway IGW
-and using that subnet and my custom vpc i have configured my ec2 instance using that. Here i provide my screenshot of execution
-link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).png
-      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122059.png
-      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122156.png
-      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122242.png
-      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122447.png
       
       
 # Assignment 6 
@@ -171,3 +168,12 @@ https://github.com/tohidhanfi20/Assignments/blob/main/Ec2-2.png
 https://github.com/tohidhanfi20/Assignments/blob/main/LB%20interface.png
 https://github.com/tohidhanfi20/Assignments/blob/main/Load%20balancer.png
  
+ 
+ # Assignment 7 Create your own new custom VPC
+I have created my own custom vpc and i have divided the CIDR ip address into 3 subnets and made an internet gateway IGW
+and using that subnet and my custom vpc i have configured my ec2 instance using that. Here i provide my screenshot of execution
+link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).png
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122059.png
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122156.png
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122242.png
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122447.png
