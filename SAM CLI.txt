@@ -1,0 +1,99 @@
+Assignment 8 :- Explain the below aws architecture diagram in detail, also deploy the same aws
+                architecture.
+               ● For this assignment you need to take a look and study the documentation for SAM CLI,
+                 you need to deploy a Hello, World application on aws lambda.
+               ● Make sure when you test the lambda url it will respond as Hello, World. 
+			   
+Solution :- I took help of SAM CLI reference page for this assignment. There are various steps are as follows
+          1) Firstly i installed AWS CLI & AWS SAM CLI from the reference page
+          2) Then i shooted some commands :-	
+                                          aws configure - To configure aws credential to access particular account		  
+		                                                     It will ask you for the aws crendential like accesskey and secretkey.
+          3) Then i have created a directory in my system in documents section with name sam-cli with command "mkdir"
+          4) Then for initialization sam-cli we have to shoot a command :- sam init   
+             After that command this message will be prompted 
+             Which template source would you like to use?
+                1 - AWS Quick Start Templates
+                2 - Custom Template Location	
+          5) we will proceed with a option 1
+          6) Then another choice is prompted for application template like :-Choose an AWS Quick Start application template
+                 1 - Hello World Example
+                 2 - Multi-step workflow
+                 3 - Serverless API
+                 4 - Scheduled task
+                 5 - Standalone function
+                 6 - Data processing
+                 7 - Infrastructure event management
+                 8 - Serverless Connector Hello World Example
+                 9 - Multi-step workflow with Connectors
+                 10 - Lambda EFS example
+                 11 - Machine Learning	
+
+             Runtime engine will be python 3.9
+             we will proceed will 8 option as assigned in the Assignment
+
+          7) Several options will be prompted select Y(yes) in all
+          8) Then I Assign project name		  
+		  9) Then it will display us details of our application in this way
+		        -----------------------
+                Generating application:
+                -----------------------
+                 Name: sam-app
+                 Runtime: python3.9
+                 Architectures: x86_64
+                 Dependency Manager: pip
+                 Application Template:Serverless connector Hello-world Example
+                 Output Directory: .
+		  10) And by doing the LS we will see all the contents in it and using tree command we can see a tree structure of what we created
+	         
+			 like:-
+                     Folder PATH listing
+                 Volume serial number is 823E-E50E
+                  C:.
+                  ├───.aws-sam
+                  │   └───build
+                  ├───events
+                  ├───hello_world
+                  │   └───__pycache__
+                  └───tests
+                        └───__pycache__
+
+          11) Lets go now with sam build command to build the application but i encounted an error which was
+            Error: PythonPipBuilder:Validation - Binary validation failed for python, searched for python in following locations  : ['C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\WindowsApps\\python.EXE'		  
+				 
+				 Finally i found the solution i removed all my python versions and installed python 3.9 version because i choose my runtime environment as 3.9
+				 
+				 Now i applied the sam build command and it worked it is showing like this :-
+				   
+                 Build Succeeded
+
+                 Built Artifacts  : .aws-sam\build
+                 Built Template   : .aws-sam\build\template.yaml
+                 
+          12) After that a stack is created we have to give input like
+              Stack name
+              Aws region			
+           Follwed by Y commands 
+
+          13) Then deployement process is initialized
+          14) Then it will ask you to deploy this chainset we will go with Y command 
+              It will give a api gateway endpoint URL 
+          15) This whole process you be able to see in Aws cloudformation and the code in the aws lambda 
+        
+
+		16) Hence we are successful in deployement of serverless hello world application
+		  
+		  
+		  
+		  Here are all the screenshots of what i have done
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(93).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(94).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(95).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(96).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(97).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(98).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(99).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(100).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(101).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(102).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(103).png
