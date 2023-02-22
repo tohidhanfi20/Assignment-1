@@ -201,3 +201,10 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
 		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(101).png
 		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(102).png
 		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(103).png
+		  
+ # Assignment 9 Ques 1: Create a container for the below bash script(prime.sh).
+                         Create a Dockerfile
+                         Create a Docker Image
+  Solution :-	
+  
+  
