@@ -188,9 +188,9 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
     
       
  Solution :- I have explained in detail in my txt documents and screenshots what i performed
-   link:-
-   Screenshots:-
-      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(93).png
+            link:- https://github.com/tohidhanfi20/Assignments/blob/main/SAM%20CLI.txt
+            Screenshots:-
+                  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(93).png
 		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(94).png
 		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(95).png
 		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(96).png
