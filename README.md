@@ -177,3 +177,27 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
       https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122156.png
       https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122242.png
       https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot_20230206_122447.png
+      
+      
+ # Assignment 8 Serverless Hello World Apllication
+  Ques : Explain the below aws architecture diagram in detail, also deploy the same aws
+  architecture.
+    ● For this assignment you need to take a look and study the documentation for SAM CLI,
+      you need to deploy a Hello, World application on aws lambda.
+    ● Make sure when you test the lambda url it will respond as Hello, World.
+    
+      
+ Solution :- I have explained in detail in my txt documents and screenshots what i performed
+   link:-
+   Screenshots:-
+      https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(93).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(94).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(95).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(96).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(97).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(98).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(99).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(100).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(101).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(102).png
+		  https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(103).png
