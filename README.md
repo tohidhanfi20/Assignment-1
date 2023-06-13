@@ -208,6 +208,16 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
   Solution :-	
   
   Here are the screnshot of my work done 
+  https://github.com/tohidhanfi20/Assignments/blob/main/Docker%20image.png
+  https://github.com/tohidhanfi20/Assignments/blob/main/Docker%20file.png
   
   
-  
+  # Assignment 10Ques 1: Create a container for the below bash script(pomodoro.sh).
+  1.Create a Dockerfile
+  2.Create a Docker Image
+  3.Push the image to the docker hub
+  4.Pull it and test it.
+
+
+Here are the screenshots of my work :
+
