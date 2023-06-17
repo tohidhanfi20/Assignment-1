@@ -214,17 +214,18 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
   
   # Assignment 10 
    Ques 1: Create a container for the below bash script(pomodoro.sh). 
+
+  
+  Here are the screenshots of my work :
   
   1.Create a Dockerfile
-  
+  https://github.com/tohidhanfi20/Assignments/blob/main/Docker%20file%202.png
   2.Create a Docker Image
-  
+  https://github.com/tohidhanfi20/Assignments/blob/main/Docker%20image%202.png
   3.Push the image to the docker hub
-  
+  https://github.com/tohidhanfi20/Assignments/blob/main/Image%20pushed.png
   4.Pull it and test it.
-
-
-  Here are the screenshots of my work :
+  https://github.com/tohidhanfi20/Assignments/blob/main/Docker%20Pulled.png
 
 
  # Assignment 11 
