@@ -223,8 +223,10 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
   Here are the screenshots of my work :
 
 
- # Assignment 11 Ques : Create a VPC security group for a private DB instance
+ # Assignment 11 
+ Ques : Create a VPC security group for a private DB instance
  Here are the screenshot of my workd one
+ 
  https://github.com/tohidhanfi20/Assignments/blob/main/PRIVATE%20DB%20INSTANCE.png
  https://github.com/tohidhanfi20/Assignments/blob/main/PRIVATE%20SECURITY%20GROUP.png
  https://github.com/tohidhanfi20/Assignments/blob/main/PRIVATE%20SUBNET.png
