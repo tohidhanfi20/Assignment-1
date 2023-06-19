@@ -1,0 +1,201 @@
+timestamp,message
+1687153656000,Jun 19 05:47:36 ip-172-31-1-10 rngd: Initializing entropy source rdrand
+1687153657000,"Jun 19 05:47:37 ip-172-31-1-10 cloud-init: Cloud-init v. 19.3-46.amzn2.0.1 running 'init-local' at Mon, 19 Jun 2023 05:47:37 +0000. Up 5.18 seconds."
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 systemd: Started Initial cloud-init job (pre-networking).
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 systemd: Reached target Network (Pre).
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 systemd: Starting LSB: Bring up/down networking...
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 network: Bringing up loopback interface:  /etc/sysconfig/network-scripts/ifup-post: line 54: /etc/resolv.conf: No such file or directory
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 network: /etc/sysconfig/network-scripts/ifup-post: line 119: /etc/resolv.conf: No such file or directory
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 network: cp: cannot stat '/etc/resolv.conf': No such file or directory
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 NET[2791]: /etc/sysconfig/network-scripts/ifup-post : updated /etc/resolv.conf
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 network: [  OK  ]
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 network: Bringing up interface eth0:
+1687153657000,Jun 19 05:47:37 ip-172-31-1-10 dhclient[2810]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x3fa3f47c)
+1687153660000,Jun 19 05:47:40 ip-172-31-1-10 dhclient[2810]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 8 (xid=0x3fa3f47c)
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 dhclient[2810]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 8 (xid=0x3fa3f47c)
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 dhclient[2810]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x3fa3f47c)
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 dhclient[2810]: DHCPOFFER from 172.31.0.1
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 dhclient[2810]: DHCPACK from 172.31.0.1 (xid=0x3fa3f47c)
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 NET: dhclient: Locked /run/dhclient/resolv.lock
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 NET[2864]: /usr/sbin/dhclient-script : updated /etc/resolv.conf
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 dhclient[2810]: bound to 172.31.1.10 -- renewal in 1379 seconds.
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 network: Determining IP information for eth0... done.
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 ec2net: [get_meta] Querying IMDS for meta-data/network/interfaces/macs/0a:47:d5:5e:53:cc/local-ipv4s
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 ec2net: [get_meta] Getting token for IMDSv2.
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 ec2net: [get_meta] Trying to get http://169.254.169.254/latest/meta-data/network/interfaces/macs/0a:47:d5:5e:53:cc/local-ipv4s
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 ec2net: [remove_aliases] Removing aliases of eth0
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 network: Determining IPv6 information for eth0... done.
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 network: [  OK  ]
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 systemd: Started LSB: Bring up/down networking.
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 systemd: Reached target Network.
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 systemd: Starting Postfix Mail Transport Agent...
+1687153668000,Jun 19 05:47:48 ip-172-31-1-10 systemd: Starting Initial cloud-init job (metadata service crawler)...
+1687153669000,"Jun 19 05:47:49 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 1020ms."
+1687153669000,"Jun 19 05:47:49 ip-172-31-1-10 cloud-init: Cloud-init v. 19.3-46.amzn2.0.1 running 'init' at Mon, 19 Jun 2023 05:47:49 +0000. Up 17.21 seconds."
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: ++++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++++
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: | Device |  Up  |           Address           |      Mask     | Scope  |     Hw-Address    |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |  eth0  | True |         172.31.1.10         | 255.255.240.0 | global | 0a:47:d5:5e:53:cc |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |  eth0  | True | fe80::847:d5ff:fe5e:53cc/64 |       .       |  link  | 0a:47:d5:5e:53:cc |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |   lo   | True |          127.0.0.1          |   255.0.0.0   |  host  |         .         |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |   lo   | True |           ::1/128           |       .       |  host  |         .         |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++++
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +-------+-----------------+------------+-----------------+-----------+-------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: | Route |   Destination   |  Gateway   |     Genmask     | Interface | Flags |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +-------+-----------------+------------+-----------------+-----------+-------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |   0   |     0.0.0.0     | 172.31.0.1 |     0.0.0.0     |    eth0   |   UG  |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |   1   | 169.254.169.254 |  0.0.0.0   | 255.255.255.255 |    eth0   |   UH  |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |   2   |    172.31.0.0   |  0.0.0.0   |  255.255.240.0  |    eth0   |   U   |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +-------+-----------------+------------+-----------------+-----------+-------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +-------+-------------+---------+-----------+-------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: | Route | Destination | Gateway | Interface | Flags |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +-------+-------------+---------+-----------+-------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |   9   |  fe80::/64  |    ::   |    eth0   |   U   |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |   11  |    local    |    ::   |    eth0   |   U   |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: |   12  |  multicast  |    ::   |    eth0   |   U   |
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 cloud-init: ci-info: +-------+-------------+---------+-----------+-------+
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 systemd: Started Postfix Mail Transport Agent.
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 dbus[2630]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+1687153669000,Jun 19 05:47:49 ip-172-31-1-10 systemd: Starting Hostname Service...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 kernel: xfs filesystem being remounted at /tmp supports timestamps until 2038 (0x7fffffff)
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 kernel: xfs filesystem being remounted at /var/tmp supports timestamps until 2038 (0x7fffffff)
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 dbus[2630]: [system] Successfully activated service 'org.freedesktop.hostname1'
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Hostname Service.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd-hostnamed: Changed static host name to 'ip-172-31-1-10.ap-south-1.compute.internal'
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd-hostnamed: Changed host name to 'ip-172-31-1-10.ap-south-1.compute.internal'
+1687153670000,"Jun 19 05:47:50 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 2080ms."
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Initial cloud-init job (metadata service crawler).
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Reached target Cloud-config availability.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting Permit User Sessions...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting OpenSSH Server Key Generation...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Reached target Network is Online.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting Notify NFS peers of a restart...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting System Logging Service...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting Finds and configures elastic network interfaces...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting Apply the settings specified in cloud-config...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started amazon-ssm-agent.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting Dynamically Generate Message Of The Day...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 sm-notify[3129]: Version 1.3.0 starting
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 ec2net: [ec2ifscan] Scanning for unconfigured interfaces
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Permit User Sessions.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Notify NFS peers of a restart.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Command Scheduler.
+1687153670000,"Jun 19 05:47:50 ip-172-31-1-10 rsyslogd: [origin software=""rsyslogd"" swVersion=""8.24.0-57.amzn2.2.0.2"" x-pid=""3130"" x-info=""http://www.rsyslog.com""] start"
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Job spooling tools.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting Terminate Plymouth Boot Screen...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Starting Wait for Plymouth Boot Screen to Quit...
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started System Logging Service.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Finds and configures elastic network interfaces.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: Error occurred fetching the seelog config file path:  open /etc/amazon/ssm/seelog.xml: no such file or directory
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: Initializing new seelog logger
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: New Seelog Logger Creation Complete
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO Proxy environment variables:
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO http_proxy:
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO no_proxy:
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO https_proxy:
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Received SIGRTMIN+21 from PID 2478 (plymouthd).
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Terminate Plymouth Boot Screen.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Wait for Plymouth Boot Screen to Quit.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Serial Getty on ttyS0.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Started Getty on tty1.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO Agent will take identity from EC2
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 systemd: Reached target Login Prompts.
+1687153670000,Jun 19 05:47:50 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO [amazon-ssm-agent] using named pipe channel for IPC
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO [amazon-ssm-agent] using named pipe channel for IPC
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO [amazon-ssm-agent] using named pipe channel for IPC
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 sshd-keygen: Generating SSH2 RSA host key: [  OK  ]
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO [amazon-ssm-agent] amazon-ssm-agent - v3.1.1732.0
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 sshd-keygen: Generating SSH2 ECDSA host key: [  OK  ]
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 sshd-keygen: Generating SSH2 ED25519 host key: [  OK  ]
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Started OpenSSH Server Key Generation.
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Starting OpenSSH server daemon...
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Started OpenSSH server daemon.
+1687153671000,"Jun 19 05:47:51 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO [amazon-ssm-agent] OS: linux, Arch: amd64"
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:50 INFO [CredentialRefresher] Identity does not require credential refresher
+1687153671000,"Jun 19 05:47:51 ip-172-31-1-10 cloud-init: Cloud-init v. 19.3-46.amzn2.0.1 running 'modules:config' at Mon, 19 Jun 2023 05:47:51 +0000. Up 19.49 seconds."
+1687153671000,"Jun 19 05:47:51 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:51 INFO [amazon-ssm-agent] [LongRunningWorkerContainer] [WorkerProvider] Worker ssm-agent-worker is not running, starting worker process"
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Stopping OpenSSH server daemon...
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Stopped OpenSSH server daemon.
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Stopped OpenSSH Server Key Generation.
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Stopping OpenSSH Server Key Generation...
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Starting OpenSSH server daemon...
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 systemd: Started OpenSSH server daemon.
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:51 INFO [amazon-ssm-agent] [LongRunningWorkerContainer] [WorkerProvider] Worker ssm-agent-worker (pid:3202) started
+1687153671000,Jun 19 05:47:51 ip-172-31-1-10 amazon-ssm-agent: 2023-06-19 05:47:51 INFO [amazon-ssm-agent] [LongRunningWorkerContainer] Monitor long running worker health every 60 seconds
+1687153672000,"Jun 19 05:47:52 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 3990ms."
+1687153672000,"Jun 19 05:47:52 ip-172-31-1-10 cloud-init: Loaded plugins: extras_suggestions, langpacks, priorities, update-motd"
+1687153673000,Jun 19 05:47:53 ip-172-31-1-10 chronyd[2664]: Selected source 169.254.169.123
+1687153676000,"Jun 19 05:47:56 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 7950ms."
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 cloud-init: No packages needed for security; 0 packages available
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 cloud-init: No packages marked for update
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Started Apply the settings specified in cloud-config.
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Starting Execute cloud user/final scripts...
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Starting Initial hibernation setup job...
+1687153679000,"Jun 19 05:47:59 ip-172-31-1-10 hibinit-agent: Effective config: {'grub_update': True, 'swap_percentage': 100, 'log_to_syslog': True, 'touch_swap': False, 'state_dir': '/var/lib/hibinit-agent', 'swapoff': 'swapoff {swapfile}', 'mkswap': 'mkswap {swapfile}', 'swapon': 'swapon {swapfile}', 'swap_mb': 4000}"
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 hibinit-agent: Requesting new IMDSv2 token.
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 hibinit-agent: Instance Launch has not enabled Hibernation Configured Flag. hibinit-agent exiting!!
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Stopping ACPI Event Daemon...
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 acpid: exiting
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Stopped ACPI Event Daemon.
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Starting ACPI Event Daemon...
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Started ACPI Event Daemon.
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Started Initial hibernation setup job.
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 acpid: starting up with netlink and the input layer
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 acpid: skipping incomplete file /etc/acpi/events/videoconf
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 acpid: 2 rules loaded
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 acpid: waiting for events: event logging is off
+1687153679000,"Jun 19 05:47:59 ip-172-31-1-10 cloud-init: Cloud-init v. 19.3-46.amzn2.0.1 running 'modules:final' at Mon, 19 Jun 2023 05:47:59 +0000. Up 27.71 seconds."
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 ec2: 
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 ec2: #############################################################
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 ec2: -----BEGIN SSH HOST KEY FINGERPRINTS-----
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 ec2: 256 SHA256:OuTy2bX4fEzqf40u07CxCrcrctwQNWTGn/PaGTA3RD4 no comment (ECDSA)
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 ec2: 256 SHA256:8a2A470jEap36vm37WSACEdd326BkBhu67SIxdedJqo no comment (ED25519)
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 ec2: 2048 SHA256:95WQ/FHZUGh4DkPrtbS0WwssSdFvN6U7iemlG0V7p/w no comment (RSA)
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 ec2: -----END SSH HOST KEY FINGERPRINTS-----
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 ec2: #############################################################
+1687153679000,"Jun 19 05:47:59 ip-172-31-1-10 cloud-init: Cloud-init v. 19.3-46.amzn2.0.1 finished at Mon, 19 Jun 2023 05:47:59 +0000. Datasource DataSourceEc2.  Up 27.91 seconds"
+1687153679000,Jun 19 05:47:59 ip-172-31-1-10 systemd: Started Execute cloud user/final scripts.
+1687153684000,"Jun 19 05:48:04 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 16550ms."
+1687153685000,Jun 19 05:48:05 ip-172-31-1-10 systemd: Started Dynamically Generate Message Of The Day.
+1687153685000,Jun 19 05:48:05 ip-172-31-1-10 systemd: Reached target Multi-User System.
+1687153685000,Jun 19 05:48:05 ip-172-31-1-10 systemd: Reached target Cloud-init target.
+1687153685000,Jun 19 05:48:05 ip-172-31-1-10 systemd: Reached target Graphical Interface.
+1687153685000,Jun 19 05:48:05 ip-172-31-1-10 systemd: Starting Update UTMP about System Runlevel Changes...
+1687153685000,Jun 19 05:48:05 ip-172-31-1-10 systemd: Started Update UTMP about System Runlevel Changes.
+1687153685000,Jun 19 05:48:05 ip-172-31-1-10 systemd: Startup finished in 1.894s (kernel) + 1.184s (initrd) + 30.728s (userspace) = 33.807s.
+1687153689000,Jun 19 05:48:09 ip-172-31-1-10 systemd: Created slice User Slice of ec2-user.
+1687153689000,Jun 19 05:48:09 ip-172-31-1-10 systemd-logind: New session 1 of user ec2-user.
+1687153689000,Jun 19 05:48:09 ip-172-31-1-10 systemd: Started Session 1 of user ec2-user.
+1687153700000,"Jun 19 05:48:20 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 34290ms."
+1687153734000,"Jun 19 05:48:54 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 70720ms."
+1687153801000,Jun 19 05:50:01 ip-172-31-1-10 systemd: Created slice User Slice of root.
+1687153801000,Jun 19 05:50:01 ip-172-31-1-10 systemd: Started Session 2 of user root.
+1687153801000,Jun 19 05:50:01 ip-172-31-1-10 systemd: Removed slice User Slice of root.
+1687153805000,"Jun 19 05:50:05 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 125830ms."
+1687153931000,"Jun 19 05:52:11 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 118320ms."
+1687154049000,"Jun 19 05:54:09 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 113350ms."
+1687154163000,"Jun 19 05:56:03 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 112040ms."
+1687154275000,"Jun 19 05:57:55 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 121180ms."
+1687154396000,"Jun 19 05:59:56 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 108750ms."
+1687154401000,Jun 19 06:00:01 ip-172-31-1-10 systemd: Created slice User Slice of root.
+1687154401000,Jun 19 06:00:01 ip-172-31-1-10 systemd: Started Session 3 of user root.
+1687154401000,Jun 19 06:00:01 ip-172-31-1-10 systemd: Removed slice User Slice of root.
+1687154461000,Jun 19 06:01:01 ip-172-31-1-10 systemd: Created slice User Slice of root.
+1687154461000,Jun 19 06:01:01 ip-172-31-1-10 systemd: Started Session 4 of user root.
+1687154505000,"Jun 19 06:01:45 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 113510ms."
+1687154551000,Jun 19 06:02:31 ip-172-31-1-10 yum[3754]: Installed: aws-cli-plugin-cloudwatch-logs-1.4.6-1.amzn2.0.1.noarch
+1687154552000,Jun 19 06:02:32 ip-172-31-1-10 systemd: Starting Cleanup of Temporary Directories...
+1687154552000,Jun 19 06:02:32 ip-172-31-1-10 systemd: Started Cleanup of Temporary Directories.
+1687154552000,Jun 19 06:02:32 ip-172-31-1-10 systemd: Reloading.
+1687154552000,Jun 19 06:02:32 ip-172-31-1-10 systemd: Reloading.
+1687154552000,Jun 19 06:02:32 ip-172-31-1-10 yum[3754]: Installed: awslogs-1.1.4-3.amzn2.noarch
+1687154553000,Jun 19 06:02:33 ip-172-31-1-10 systemd: Stopped Dynamically Generate Message Of The Day.
+1687154553000,Jun 19 06:02:33 ip-172-31-1-10 systemd: Stopping Dynamically Generate Message Of The Day...
+1687154553000,Jun 19 06:02:33 ip-172-31-1-10 systemd: Starting Dynamically Generate Message Of The Day...
+1687154558000,Jun 19 06:02:38 ip-172-31-1-10 systemd: Started Dynamically Generate Message Of The Day.
+1687154610000,Jun 19 06:03:30 ip-172-31-1-10 systemd: Started awslogs daemon.
+1687154618000,"Jun 19 06:03:38 ip-172-31-1-10 dhclient[2930]: XMT: Solicit on eth0, interval 114300ms."
+1687154619000,Jun 19 06:03:39 ip-172-31-1-10 systemd: Reloading.
