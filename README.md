@@ -237,7 +237,7 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
  https://github.com/tohidhanfi20/Assignments/blob/main/PRIVATE%20SUBNET.png
 
 
- # Assignment 11 :- 
+ # Assignment 12 :- 
  Follow Up the below AWS Architecture Diagram and Create the same in AWS, after created store the store the cloudwatch logs in the logs.txt 
  file.
 
