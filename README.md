@@ -237,8 +237,17 @@ link:-https://github.com/tohidhanfi20/Assignments/blob/main/Screenshot%20(79).pn
  https://github.com/tohidhanfi20/Assignments/blob/main/PRIVATE%20SUBNET.png
 
 
+
  # Assignment 12 :- 
  Follow Up the below AWS Architecture Diagram and Create the same in AWS, after created store the store the cloudwatch logs in the logs.txt 
  file.
 
  limk of the log file :- https://github.com/tohidhanfi20/Assignments/blob/main/logs.txt
+
+
+
+# Assignment 13 
+Ques 1 : Follow Up the Instruction mentioned in the Below link and raise a new Pull Request with all the changes.
+
+Here are the screenshot of the pull request
+https://github.com/tohidhanfi20/Assignments/blob/main/Pull%20Request.png
